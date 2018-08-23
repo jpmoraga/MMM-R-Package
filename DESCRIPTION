@@ -1,0 +1,11 @@
+Package: MMM
+Type: Package
+Title: Calcular el Media Mix Model
+Version: 0.1.0
+Authors: Juan Pablo Moraga - Matías Daza
+Maintainer: The package maintainer <jp@lemonpot.com> - <matiasdazaa@gmail.com>
+Description: Se toma una base histórica con todas las variables que influyen en la variable objetivo que se quiera predecir, por ejemplo venta. En estas variables, se componen en variables de inversión en medios y y otro tipo de variables que impactan el modelo
+License: MIT
+Encoding: UTF-8
+LazyData: true
+
